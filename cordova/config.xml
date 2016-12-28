@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.togozik.bookstore" version="0.1.0">
+  <name>Tabrisjs Bookstore Example</name>
+  <description>
+    Bookstore Example Tabris.js App
+  </description>
+  <author email="dbdjbah@gmail.com">
+    Bah Djibril
+  </author>
+</widget>
