@@ -1,6 +1,8 @@
 var PAGE_MARGIN = 16;
 var books = require('./books.json');
 
+var tabris = require('tabris');
+
 new tabris.Drawer().append(new tabris.PageSelector());
 
 var loremIpsum = 'Etiam nisl nisi, egestas quis lacus ut, tristique suscipit metus. In ' +
